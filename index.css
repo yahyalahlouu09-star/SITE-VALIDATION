@@ -4,3 +4,27 @@
     align-items: center;
     height: 100vh;
 }
+
+.cercle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cercle1{
+    background-color: red;
+}
+.cercle2{
+    background-color: blue;
+}
+.cercle3{
+    background-color: green;
+}
+.cercle4{
+    background-color: yellow;
+}
+.cercle5{
+    background-color: orange;
+}
