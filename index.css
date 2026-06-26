@@ -12,40 +12,40 @@ body {
 }
 
 .cercle{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .cercle1{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     background-color: red;
 }
 .cercle2{
-    width: 200px;
+    width: 100px;
     height: 200px;
     border-radius: 50%;
     background-color: blue;
 }
 .cercle3{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     background-color: green;
 }
 .cercle4{
-    width: 200px;
+    width: 100px;
     height: 200px;
     border-radius: 50%;
     background-color: yellow;
 }
 .cercle5{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     background-color: orange;
 }
